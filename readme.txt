@@ -1,6 +1,6 @@
-today is rainy//////
-add a line;
-my boss is asshole!!!!!!!!!
-I will excrise tomorrow!
-mmmmmmmmmmmmm
-leraning github again.....
+##
+## Simple notes about learning loT_Sec by myself,update anytime!
+##
+## If there is something wrong,please tell me.Merci~
+##
+##
