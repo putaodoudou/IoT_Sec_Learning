@@ -4,5 +4,13 @@
 ##
 ## If there is something wrong,please tell me.Merci~
 ##
-## ...loT 
-## Paper foward other author.
+## 
+## 
+## [Note]Paper foward other author.
+##  
+##      http://cnki.net/
+##      http://xueshu.baidu.com/
+##
+##
+##
+##
