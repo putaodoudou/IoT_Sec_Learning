@@ -1,22 +1,14 @@
 # loT_Sec_Learning
 Simple loT_Sec learning notes.
 
+Created by ianpasm on 20171015                                                                                       
+Simple notes about learning IoT_Sec by myself,update anytime!                                                            
+If there is something wrong,please tell me.Merci~             
+                                                      
+[Note]Paper foward other author.                              
+Related website:                                              
+    https://www.ichunqiu.com/                                
 
-###################################################################
-## Created by ianpasm on 20171015                                ##
-##                                                               ##
-## Simple notes about learning IoT_Sec by myself,update anytime! ##
-##                                                               ##
-## If there is something wrong,please tell me.Merci~             ##
-##                                                               ##       
-##                                                               ##   
-##                                                               ##   
-## [Note]Paper foward other author.                              ##   
-## Related website:                                              ##
-##      http://cnki.net/                                         ##  
-##      http://xueshu.baidu.com/                                 ##
-##      https://www.ichunqiu.com/                                ##
-###################################################################
 
 关于物联网安全的态势感知概述：
 ==
