@@ -5,7 +5,7 @@ Created by ianpasm on 20171015
 Simple notes about learning IoT_Sec by myself,update anytime!                                                            
 If there is something wrong,please tell me.Merci~             
                                                       
-[Note]Paper foward other author.                              
+[Note]Paper foward other authors.                              
 Related website:                                              
     https://www.ichunqiu.com/                                
 
