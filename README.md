@@ -1,9 +1,8 @@
 # loT_Sec_Learning
 Simple loT_Sec learning notes.
 
-Created by ianpasm on 20171015                                                                                       
-Simple notes about learning IoT_Sec by myself,update anytime!                                                            
-If there is something wrong,please tell me.Merci~             
+Created by ianpasm on 20171015                                                                                                                                               
+If there are something wrong,please tell me.Merci~             
                                                       
 [Note]Paper foward other authors.                              
 Related website:                                              
