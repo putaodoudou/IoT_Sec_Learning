@@ -1,8 +1,7 @@
 # loT_Sec_Learning
 Simple loT_Sec learning notes.Created by ianpasm on 20171015.If there are something wrong,please tell me.Merci~ [Note]Paper foward other authors.
-Related website:                                              
-    https://www.ichunqiu.com/                                
-
+Related website:https://www.ichunqiu.com/                                
+update 20171025:no commit last,hold on...
 
 关于物联网安全的态势感知概述：
 ==
