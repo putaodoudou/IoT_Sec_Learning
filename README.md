@@ -2,8 +2,8 @@
 Simple loT_Sec learning notes.Created by ianpasm on 20171015.If there are something wrong,please tell me.Merci~ [Note]Paper foward other authors.
 Related website:https://www.ichunqiu.com/                                
 
-update 20171025:no commit last,hold on...
-                add site:http://www.icsisia.com/ 工业控制系统信息安全产业联盟
+update 20171025:
+    add site:http://www.icsisia.com/ 工业控制系统信息安全产业联盟
 
 
 关于物联网安全的态势感知概述：
@@ -11,7 +11,7 @@ update 20171025:no commit last,hold on...
 (可参考http://blog.csdn.net/liang890319/article/details/72840991)
 
     1.物联网安全可以作为切入点的领域：
-        工控安全：工业4.0驱动制造业、过程控制、基础设施、其他工业控制系统(ICS)
+     工控安全：工业4.0驱动制造业、过程控制、基础设施、其他工业控制系统(ICS)
             相关行业：
                 火电厂、水电控制系统、新能源光伏发电站、电网调度、变电站、核电站、军工厂、交通枢纽、航天航空
             我国ICS存在的主要安全问题：
