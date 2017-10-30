@@ -2,10 +2,12 @@
 Simple loT_Sec learning notes.Created by ianpasm on 20171015.If there are something wrong,please tell me.Merci~ `Note`Paper from other authors.
 
 Related website:<br>
-[iChunqiu](https://www.ichunqiu.com/)<br>                          
+[iChunqiu](https://www.ichunqiu.com/courses/gkaq)<br>                          
 [ICSISIA](http://www.icsisia.com/)<br>
 [安全客](http://bobao.360.cn/learning/detail/659.html)<br> 
-
+[匡恩](http://www.kuangn.com/school/video/)<br>
+[工匠安全](http://icsmaster.com/nav.html)<br>
+[灯塔实验室](http://plcscan.org/blog/)<br>
 
 ## IoT Situation Awareness([Click me to ref](http://blog.csdn.net/liang890319/article/details/72840991)):
 
