@@ -1,13 +1,15 @@
 # loT_Sec_Learning
-Simple loT_Sec learning notes.Created by ianpasm on 20171015.If there are something wrong,please tell me.Merci~ `Note`Paper foward other authors.Related website:[iChunqiu](https://www.ichunqiu.com/)                           
+Simple loT_Sec learning notes.Created by ianpasm on 20171015.If there are something wrong,please tell me.Merci~ `Note`Paper from other authors.
 
-update 20171025:<br> 
->add site:http://www.icsisia.com/ 工业控制系统信息安全产业联盟
+Related website:
+[iChunqiu](https://www.ichunqiu.com/)                           
+[ICSISIA](http://www.icsisia.com/)
+[安全客](http://bobao.360.cn/learning/detail/659.html) 
 
 
-## 关于物联网安全的态势感知概述([Click me to ref](http://blog.csdn.net/liang890319/article/details/72840991)):
+## IoT Situation Awareness([Click me to ref](http://blog.csdn.net/liang890319/article/details/72840991)):
 
-### 1.物联网安全可以作为切入点的领域：
+### 1.Fields：
      工控安全：工业4.0驱动制造业、过程控制、基础设施、其他工业控制系统(ICS)
             相关行业：
                 火电厂、水电控制系统、新能源光伏发电站、电网调度、变电站、核电站、军工厂、交通枢纽、航天航空
@@ -25,7 +27,7 @@ update 20171025:<br>
         智能汽车安全：特斯拉汽车等智能汽车
         智能家居安全
 
-### 2.物联网安全研究点：
+### 2.Research Points:
         物联网安全网关
         应用层的物联网安全服务
         漏洞挖掘研究
@@ -33,14 +35,14 @@ update 20171025:<br>
         区块链技术
         物联网设备安全设计
 
-### 3.物联网安全项目：
+### 3.IoT Security Projects:
         TRUST
         OWASP Internet of Things Project(OWASP，Open Web Application Security Project)
         CSA(Cloud Security Alliance，CSA)
         NIST(National Institute of Standards and Technology，NIST)
         loT Security Foundation
 
-### 4.已有技术在物联网环境中的应用：
+### 4.Applications:
         异常行为检测-->对应的物联网安全需求：攻击检测和防御、日志和审计
         代码签名-->对应的物联网安全需求：设备保护和资产管理、攻击检测和防御
         白盒密码-->对应的物联网安全需求：设备保护和资产管理
@@ -49,7 +51,7 @@ update 20171025:<br>
         防火墙-->对应的物联网安全需求：攻击检测和防御
         新技术的探索-->区块链 对应的物联网安全需求：认证
 
-### 5.Attack Activity   
+### 5.Attack Activities:
         2007年，攻击者入侵加拿大一个水利SCADA控制系统，破坏了取水调度的控制计算机
         2008年，攻击者入侵波兰某城市地铁系统，通过电视遥控器改变轨道扳道器，致四节车厢脱轨
         2010年，西门子首次监测到专门攻击该公司工业控制系统的Stuxnet病毒，也称为震网病毒
@@ -60,19 +62,19 @@ update 20171025:<br>
         2012年，发现攻击多个中东国家的恶意程序Flame火焰病毒，它能收集各行业的敏感信息
         2014年，黑客集团 Dragonfly 制造“超级电厂”病毒——阻断电力供应或破坏、劫持工业控制设备，全球上千座发电站遭到攻击
     
-### 6.相关术语
-        SCADA:
-        ICS:
-        DCS:
-        PCS:
-        ESD:
-        PLC:
-        RTU:
-        IED:
-        HMI:
-        MIS:
-        SIS:
-        MES:
+### 6.Related Terms:
+        SCADA(Supervisory Control and Data Acquisition):数据采集与监视控制系统
+        ICS(Industry Control System):工业控制系统
+        DCS(Distributed Control System):分布式控制系统/集散控制系统
+        PCS(Process Control System):过程控制系统
+        ESD(Emergency Shutdown Device):应急停车系统
+        PLC(Programmable Logic Controller):可编程序控制器
+        RTU(Remote Terminal Unit):远程终端控制系统
+        IED(Intelligent Electronic Device):智能电子设备
+        HMI(Human Machine Interface):人机界面
+        MIS(Management Information System):管理信息系统
+        SIS(Supervisory Information System):生产过程自动化监控和管理系统
+        MES(Manufacturing Execution System):制造执行管理系统
 
 
 
