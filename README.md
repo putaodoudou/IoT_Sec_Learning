@@ -9,7 +9,7 @@ Related website:<br>
 [工匠安全](http://icsmaster.com/nav.html)<br>
 [灯塔实验室](http://plcscan.org/blog/)<br>
 
-## IoT Situation Awareness([Click me to ref](http://blog.csdn.net/liang890319/article/details/72840991)):
+## [IoT Situation Awareness](http://blog.csdn.net/liang890319/article/details/72840991):
 
 ### 1.Fields：
      工控安全：工业4.0驱动制造业、过程控制、基础设施、其他工业控制系统(ICS)
