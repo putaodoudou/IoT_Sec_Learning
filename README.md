@@ -1,5 +1,5 @@
 # loT_Sec_Learning
-Simple loT_Sec learning notes.Created by ianpasm on 20171015.If there are something wrong,please tell me.Merci~ `Note`Paper from other authors.
+Simple loT_Sec learning notes.Created by ianpasm on 20171015.If there are something wrong,please tell me.Merci~ Paper from other authors.
 
 Related website:<br>
 [iChunqiu](https://www.ichunqiu.com/courses/gkaq)<br>
