@@ -85,29 +85,29 @@ Related website:<br>
 * 新技术的探索-->区块链 对应的物联网安全需求：认证
 
 ### 5.Attack Activities:
-2007年，攻击者入侵加拿大一个水利SCADA控制系统，破坏了取水调度的控制计算机
-2008年，攻击者入侵波兰某城市地铁系统，通过电视遥控器改变轨道扳道器，致四节车厢脱轨
-2010年，西门子首次监测到专门攻击该公司工业控制系统的Stuxnet病毒，也称为震网病毒
-2010年，伊朗政府宣布布什尔核电站员工电脑感染Stuxnet病毒，严重威胁核反应堆安全运营
-2011年，黑客入侵数据采集与监控系统，使美国伊利诺伊州城市供水系统的供水泵遭到破坏
-2011年，微软警告称最新发现的Duqu病毒可从工业控制系统制造商收集情报数据
-2012年，两座美国电厂遭USB病毒攻击，感染了每个工厂的工控系统，可被窃取数据
-2012年，发现攻击多个中东国家的恶意程序Flame火焰病毒，它能收集各行业的敏感信息
-2014年，黑客集团 Dragonfly 制造“超级电厂”病毒——阻断电力供应或破坏、劫持工业控制设备，全球上千座发电站遭到攻击
+* 2007年，攻击者入侵加拿大一个水利SCADA控制系统，破坏了取水调度的控制计算机
+* 2008年，攻击者入侵波兰某城市地铁系统，通过电视遥控器改变轨道扳道器，致四节车厢脱轨
+* 2010年，西门子首次监测到专门攻击该公司工业控制系统的Stuxnet病毒，也称为震网病毒
+* 2010年，伊朗政府宣布布什尔核电站员工电脑感染Stuxnet病毒，严重威胁核反应堆安全运营
+* 2011年，黑客入侵数据采集与监控系统，使美国伊利诺伊州城市供水系统的供水泵遭到破坏
+* 2011年，微软警告称最新发现的Duqu病毒可从工业控制系统制造商收集情报数据
+* 2012年，两座美国电厂遭USB病毒攻击，感染了每个工厂的工控系统，可被窃取数据
+* 2012年，发现攻击多个中东国家的恶意程序Flame火焰病毒，它能收集各行业的敏感信息
+* 2014年，黑客集团 Dragonfly 制造“超级电厂”病毒——阻断电力供应或破坏、劫持工业控制设备，全球上千座发电站遭到攻击
     
 ### 6.Related Terms:
-SCADA(Supervisory Control and Data Acquisition):数据采集与监视控制系统
-ICS(Industry Control System):工业控制系统
-DCS(Distributed Control System):分布式控制系统/集散控制系统
-PCS(Process Control System):过程控制系统
-ESD(Emergency Shutdown Device):应急停车系统
-PLC(Programmable Logic Controller):可编程序控制器
-RTU(Remote Terminal Unit):远程终端控制系统
-IED(Intelligent Electronic Device):智能电子设备
-HMI(Human Machine Interface):人机界面
-MIS(Management Information System):管理信息系统
-SIS(Supervisory Information System):生产过程自动化监控和管理系统
-MES(Manufacturing Execution System):制造执行管理系统
+* SCADA(Supervisory Control and Data Acquisition):数据采集与监视控制系统
+* ICS(Industry Control System):工业控制系统
+* DCS(Distributed Control System):分布式控制系统/集散控制系统
+* PCS(Process Control System):过程控制系统
+* ESD(Emergency Shutdown Device):应急停车系统
+* PLC(Programmable Logic Controller):可编程序控制器
+* RTU(Remote Terminal Unit):远程终端控制系统
+* IED(Intelligent Electronic Device):智能电子设备
+* HMI(Human Machine Interface):人机界面
+* MIS(Management Information System):管理信息系统
+* SIS(Supervisory Information System):生产过程自动化监控和管理系统
+* MES(Manufacturing Execution System):制造执行管理系统
 
 
 ## ~~物联网信息安全~~：
