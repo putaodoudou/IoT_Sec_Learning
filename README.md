@@ -339,3 +339,5 @@ Simple loT_Sec learning notes.Created by ianpasm on 20171015.If there are someth
         7.4 3G安全技术
         7.5 ZigBee安全技术
         7.6 蓝牙安全技术
+
+[研究生手册](http://www.360doc.com/content/14/1024/07/4311256_419377716.shtml)<br>
