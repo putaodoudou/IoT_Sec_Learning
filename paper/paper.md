@@ -8,8 +8,8 @@ Something about Paper
 - [ScienceDirect](https://www.sciencedirect.com 'TOP3')
 - SCI
     - [备用](http://sci-hub.tw/ 'This Site Always Update!')
-    - [备用1](80.82.77.84)
-    - [备用2](80.82.77.83)
+    - ~~[备用1](80.82.77.84)~~
+    - ~~[备用2](80.82.77.83)~~
 
 - [DBLP](http://dblp.org/)
 - [SCIEI](http://www.sciei.org/)
