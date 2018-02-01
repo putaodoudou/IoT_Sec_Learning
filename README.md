@@ -4,6 +4,8 @@ Simple loT_Sec learning notes.Created by ianpasm on 20171015.If there are someth
 
 ## [IoT Situation Awareness](http://blog.csdn.net/liang890319/article/details/72840991):
 
+- [态势感知具体分析](https://www.leiphone.com/news/201711/ywxMbseNoUcsGvUy.html?viewType=weixin)
+
 ### 1.Fields：
 * 工控安全：
     * 工业4.0驱动制造业、过程控制、基础设施、其他工业控制系统(ICS)
